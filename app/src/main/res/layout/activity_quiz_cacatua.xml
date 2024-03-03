@@ -24,6 +24,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="25dp"
+        android:layout_margin="10dp"
         android:text="1) Qual a expectativa de vida de uma cacatua?"
         android:textSize="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -33,7 +34,7 @@
 
     <RadioGroup
         android:layout_width="match_parent"
-        android:layout_marginTop="20dp"
+        android:layout_margin="10dp"
         android:layout_height="wrap_content">
 
         <RadioButton
@@ -62,6 +63,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         android:layout_marginTop="25dp"
+        android:layout_margin="10dp"
         android:text="2) Qual o nome da classe das Catatuas?"
         android:textSize="20dp"
         app:layout_constraintBottom_toBottomOf="parent"
@@ -71,6 +73,7 @@
 
     <RadioGroup
         android:layout_width="match_parent"
+        android:layout_margin="10dp"
         android:layout_height="wrap_content">
 
         <RadioButton
@@ -99,9 +102,9 @@
         android:id="@+id/btnEnviar"
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
-        android:layout_marginLeft="35dp"
-        android:layout_marginTop="25dp"
-        android:layout_marginRight="35dp"
+        android:layout_marginLeft="10dp"
+        android:layout_marginTop="20dp"
+        android:layout_marginRight="10dp"
         android:text="Enviar"
         android:textSize="20dp" />
 </LinearLayout>
