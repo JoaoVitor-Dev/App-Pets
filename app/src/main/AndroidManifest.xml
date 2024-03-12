@@ -13,6 +13,12 @@
         android:theme="@style/Theme.Pets"
         tools:targetApi="31">
         <activity
+            android:name=".ActivityErrou"
+            android:exported="false" />
+        <activity
+            android:name=".ActivityAcertou"
+            android:exported="false" />
+        <activity
             android:name=".ActivityQuizGato"
             android:exported="false" />
         <activity

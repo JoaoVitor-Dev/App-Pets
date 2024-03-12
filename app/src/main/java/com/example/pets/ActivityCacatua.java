@@ -8,7 +8,6 @@ import android.view.View;
 import android.widget.Button;
 
 public class ActivityCacatua extends AppCompatActivity {
-
     private Button btnVoltar;
 
     private Button btnQuis;
