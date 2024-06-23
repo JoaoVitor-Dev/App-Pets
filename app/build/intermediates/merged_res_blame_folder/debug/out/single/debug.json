@@ -1,262 +1,254 @@
 [
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-xxxhdpi_no_pets.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-xxxhdpi\\no_pets.png"
-    },
-    {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\xml_backup_rules.xml.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\xml\\backup_rules.xml"
-    },
-    {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable_ic_launcher_foreground.xml.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable\\ic_launcher_foreground.xml"
-    },
-    {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-mdpi_correto.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-mdpi\\correto.png"
-    },
-    {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-hdpi_correto.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-hdpi\\correto.png"
-    },
-    {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-xxxhdpi_cansado.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-xxxhdpi\\cansado.png"
+        "merged": "com.example.pets.app-merged_res-4:/mipmap-xhdpi_ic_launcher.webp.flat",
+        "source": "com.example.pets.app-main-6:/mipmap-xhdpi/ic_launcher.webp"
     },
     {
         "merged": "com.example.pets.app-merged_res-4:/layout_activity_errou.xml.flat",
         "source": "com.example.pets.app-main-6:/layout/activity_errou.xml"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\mipmap-xhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\mipmap-xhdpi\\ic_launcher.webp"
+        "merged": "com.example.pets.app-merged_res-4:/mipmap-xxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pets.app-main-6:/mipmap-xxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-xhdpi_cacatua.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-xhdpi\\cacatua.png"
-    },
-    {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-xhdpi_feliz.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-xhdpi\\feliz.png"
-    },
-    {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-xhdpi_correto.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-xhdpi\\correto.png"
-    },
-    {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-hdpi_cacatua.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-hdpi\\cacatua.png"
-    },
-    {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\layout_activity_gato.xml.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\layout\\activity_gato.xml"
-    },
-    {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\mipmap-xxhdpi\\ic_launcher_foreground.webp"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-hdpi_gato.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-hdpi/gato.png"
     },
     {
         "merged": "com.example.pets.app-merged_res-4:/layout_activity_acertou.xml.flat",
         "source": "com.example.pets.app-main-6:/layout/activity_acertou.xml"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-xhdpi_gato.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-xhdpi\\gato.png"
+        "merged": "com.example.pets.app-merged_res-4:/drawable_ic_launcher_foreground.xml.flat",
+        "source": "com.example.pets.app-main-6:/drawable/ic_launcher_foreground.xml"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-mdpi_feliz.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-mdpi\\feliz.png"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-xxhdpi_triste.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-xxhdpi/triste.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\mipmap-xxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-xhdpi_cansado.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-xhdpi/cansado.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\mipmap-mdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\mipmap-mdpi\\ic_launcher.webp"
+        "merged": "com.example.pets.app-merged_res-4:/layout_activity_main.xml.flat",
+        "source": "com.example.pets.app-main-6:/layout/activity_main.xml"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-mdpi_cacatua.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-mdpi\\cacatua.png"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-xxxhdpi_no_pets.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-xxxhdpi/no_pets.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\mipmap-mdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\mipmap-mdpi\\ic_launcher_foreground.webp"
+        "merged": "com.example.pets.app-merged_res-4:/mipmap-xhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.pets.app-main-6:/mipmap-xhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\mipmap-xxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\mipmap-xxhdpi\\ic_launcher.webp"
+        "merged": "com.example.pets.app-merged_res-4:/mipmap-mdpi_ic_launcher.webp.flat",
+        "source": "com.example.pets.app-main-6:/mipmap-mdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-mdpi_no_pets.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-mdpi\\no_pets.png"
+        "merged": "com.example.pets.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.pets.app-main-6:/mipmap-xxxhdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\xml_data_extraction_rules.xml.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\xml\\data_extraction_rules.xml"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-mdpi_gato.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-mdpi/gato.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\mipmap-hdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\mipmap-hdpi\\ic_launcher_round.webp"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-mdpi_feliz.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-mdpi/feliz.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-xhdpi_no_pets.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-xhdpi\\no_pets.png"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-xxhdpi_feliz.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-xxhdpi/feliz.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\layout_activity_quiz_gato.xml.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\layout\\activity_quiz_gato.xml"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-mdpi_cansado.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-mdpi/cansado.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\layout_activity_main.xml.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\layout\\activity_main.xml"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-xhdpi_correto.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-xhdpi/correto.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\mipmap-xhdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\mipmap-xhdpi\\ic_launcher_foreground.webp"
+        "merged": "com.example.pets.app-merged_res-4:/xml_data_extraction_rules.xml.flat",
+        "source": "com.example.pets.app-main-6:/xml/data_extraction_rules.xml"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-xxhdpi_cansado.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-xxhdpi/cansado.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\mipmap-hdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\mipmap-hdpi\\ic_launcher.webp"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-hdpi_no_pets.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-hdpi/no_pets.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\layout_activity_quiz_cacatua.xml.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\layout\\activity_quiz_cacatua.xml"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-hdpi_cansado.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-hdpi/cansado.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-xxhdpi_triste.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-xxhdpi\\triste.png"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-xhdpi_cacatua.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-xhdpi/cacatua.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-xxhdpi_no_pets.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-xxhdpi\\no_pets.png"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-xhdpi_triste.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-xhdpi/triste.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-xxhdpi_cansado.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-xxhdpi\\cansado.png"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-xxxhdpi_triste.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-xxxhdpi/triste.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-hdpi_gato.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-hdpi\\gato.png"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-xxxhdpi_correto.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-xxxhdpi/correto.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\layout_activity_errou.xml.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\layout\\activity_errou.xml"
+        "merged": "com.example.pets.app-merged_res-4:/layout_activity_quiz_gato.xml.flat",
+        "source": "com.example.pets.app-main-6:/layout/activity_quiz_gato.xml"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-hdpi_triste.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-hdpi\\triste.png"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-xxxhdpi_gato.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-xxxhdpi/gato.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\mipmap-xxxhdpi\\ic_launcher_foreground.webp"
+        "merged": "com.example.pets.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher.xml.flat",
+        "source": "com.example.pets.app-main-6:/mipmap-anydpi-v26/ic_launcher.xml"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher.xml.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\mipmap-anydpi-v26\\ic_launcher.xml"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-xhdpi_feliz.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-xhdpi/feliz.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-mdpi_triste.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-mdpi\\triste.png"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-xxhdpi_no_pets.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-xxhdpi/no_pets.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-xxhdpi_gato.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-xxhdpi\\gato.png"
+        "merged": "com.example.pets.app-merged_res-4:/mipmap-hdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pets.app-main-6:/mipmap-hdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-xxxhdpi_feliz.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-xxxhdpi\\feliz.png"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-hdpi_correto.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-hdpi/correto.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-mdpi_gato.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-mdpi\\gato.png"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-xxhdpi_cacatua.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-xxhdpi/cacatua.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-xxhdpi_feliz.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-xxhdpi\\feliz.png"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-mdpi_correto.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-mdpi/correto.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-xxxhdpi_triste.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-xxxhdpi\\triste.png"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-mdpi_cacatua.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-mdpi/cacatua.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-hdpi_feliz.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-hdpi\\feliz.png"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-xxhdpi_correto.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-xxhdpi/correto.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-hdpi_cansado.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-hdpi\\cansado.png"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-xxxhdpi_feliz.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-xxxhdpi/feliz.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-xhdpi_cansado.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-xhdpi\\cansado.png"
+        "merged": "com.example.pets.app-merged_res-4:/layout_activity_cacatua.xml.flat",
+        "source": "com.example.pets.app-main-6:/layout/activity_cacatua.xml"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\mipmap-hdpi_ic_launcher_foreground.webp.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\mipmap-hdpi\\ic_launcher_foreground.webp"
+        "merged": "com.example.pets.app-merged_res-4:/mipmap-xhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pets.app-main-6:/mipmap-xhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-xxhdpi_cacatua.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-xxhdpi\\cacatua.png"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-mdpi_triste.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-mdpi/triste.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-xxxhdpi_cacatua.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-xxxhdpi\\cacatua.png"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-xxxhdpi_cacatua.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-xxxhdpi/cacatua.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-xxxhdpi_correto.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-xxxhdpi\\correto.png"
+        "merged": "com.example.pets.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.pets.app-main-6:/mipmap-xxxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-mdpi_cansado.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-mdpi\\cansado.png"
+        "merged": "com.example.pets.app-merged_res-4:/mipmap-xxhdpi_ic_launcher.webp.flat",
+        "source": "com.example.pets.app-main-6:/mipmap-xxhdpi/ic_launcher.webp"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\layout_activity_acertou.xml.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\layout\\activity_acertou.xml"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-hdpi_feliz.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-hdpi/feliz.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\layout_activity_cacatua.xml.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\layout\\activity_cacatua.xml"
+        "merged": "com.example.pets.app-merged_res-4:/mipmap-hdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.pets.app-main-6:/mipmap-hdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-hdpi_no_pets.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-hdpi\\no_pets.png"
+        "merged": "com.example.pets.app-merged_res-4:/xml_backup_rules.xml.flat",
+        "source": "com.example.pets.app-main-6:/xml/backup_rules.xml"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\mipmap-anydpi-v26_ic_launcher_round.xml.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\mipmap-anydpi-v26\\ic_launcher_round.xml"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-mdpi_no_pets.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-mdpi/no_pets.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\mipmap-mdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\mipmap-mdpi\\ic_launcher_round.webp"
+        "merged": "com.example.pets.app-merged_res-4:/mipmap-xxxhdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pets.app-main-6:/mipmap-xxxhdpi/ic_launcher_round.webp"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\mipmap-xhdpi_ic_launcher_round.webp.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\mipmap-xhdpi\\ic_launcher_round.webp"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-xxhdpi_gato.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-xxhdpi/gato.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-xxxhdpi_gato.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-xxxhdpi\\gato.png"
+        "merged": "com.example.pets.app-merged_res-4:/layout_activity_quiz_cacatua.xml.flat",
+        "source": "com.example.pets.app-main-6:/layout/activity_quiz_cacatua.xml"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-xhdpi_triste.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-xhdpi\\triste.png"
+        "merged": "com.example.pets.app-merged_res-4:/layout_activity_gato.xml.flat",
+        "source": "com.example.pets.app-main-6:/layout/activity_gato.xml"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable_ic_launcher_background.xml.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable\\ic_launcher_background.xml"
+        "merged": "com.example.pets.app-merged_res-4:/drawable-hdpi_triste.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-hdpi/triste.png"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\drawable-xxhdpi_correto.png.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\drawable-xxhdpi\\correto.png"
+        "merged": "com.example.pets.app-merged_res-4:/mipmap-mdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.pets.app-main-6:/mipmap-mdpi/ic_launcher_foreground.webp"
     },
     {
-        "merged": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-merged_res-4:\\mipmap-xxxhdpi_ic_launcher.webp.flat",
-        "source": "C:\\Users\\MaxData\\.gradle\\daemon\\8.2\\com.example.pets.app-main-6:\\mipmap-xxxhdpi\\ic_launcher.webp"
+        "merged": "com.example.pets.app-merged_res-4:/drawable_ic_launcher_background.xml.flat",
+        "source": "com.example.pets.app-main-6:/drawable/ic_launcher_background.xml"
+    },
+    {
+        "merged": "com.example.pets.app-merged_res-4:/mipmap-xxhdpi_ic_launcher_foreground.webp.flat",
+        "source": "com.example.pets.app-main-6:/mipmap-xxhdpi/ic_launcher_foreground.webp"
+    },
+    {
+        "merged": "com.example.pets.app-merged_res-4:/mipmap-anydpi-v26_ic_launcher_round.xml.flat",
+        "source": "com.example.pets.app-main-6:/mipmap-anydpi-v26/ic_launcher_round.xml"
+    },
+    {
+        "merged": "com.example.pets.app-merged_res-4:/mipmap-hdpi_ic_launcher.webp.flat",
+        "source": "com.example.pets.app-main-6:/mipmap-hdpi/ic_launcher.webp"
+    },
+    {
+        "merged": "com.example.pets.app-merged_res-4:/mipmap-mdpi_ic_launcher_round.webp.flat",
+        "source": "com.example.pets.app-main-6:/mipmap-mdpi/ic_launcher_round.webp"
+    },
+    {
+        "merged": "com.example.pets.app-merged_res-4:/drawable-xhdpi_no_pets.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-xhdpi/no_pets.png"
+    },
+    {
+        "merged": "com.example.pets.app-merged_res-4:/drawable-xxxhdpi_cansado.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-xxxhdpi/cansado.png"
+    },
+    {
+        "merged": "com.example.pets.app-merged_res-4:/drawable-xhdpi_gato.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-xhdpi/gato.png"
+    },
+    {
+        "merged": "com.example.pets.app-merged_res-4:/drawable-hdpi_cacatua.png.flat",
+        "source": "com.example.pets.app-main-6:/drawable-hdpi/cacatua.png"
     }
 ]
